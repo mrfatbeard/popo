@@ -1,0 +1,12 @@
+
+msgid "no_active_user_found"
+msgstr "Пользователь не найден"
+
+msgid "incorrect_password"
+msgstr "Неверный пароль"
+
+msgid "username_should_contain_only_digits"
+msgstr "Имя пользователя должно содержать только цифры"
+
+msgid "incorrect_pincode"
+msgstr "Неверный пин-код"
