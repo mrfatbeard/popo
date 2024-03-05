@@ -22,3 +22,9 @@ msgstr "Username should contain only digits"
 
 msgid "incorrect_pincode"
 msgstr "Incorrect pincode"
+
+msgid "cashdesk_not_activated"
+msgstr "Cashdesk not activated"
+
+msgid "failed_to_check_for_updates"
+msgstr "Failed to check for updates"
