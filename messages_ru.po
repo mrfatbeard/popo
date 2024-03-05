@@ -22,3 +22,9 @@ msgstr "Имя пользователя должно содержать толь
 
 msgid "incorrect_pincode"
 msgstr "Неверный пин-код"
+
+msgid "cashdesk_not_activated"
+msgstr "Касса не активирована"
+
+msgid "failed_to_check_for_updates"
+msgstr "Не удалось проверить наличие обновлений"
