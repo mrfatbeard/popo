@@ -1,6 +1,6 @@
 {
-  "hasUpdate": true,
-  "required": true,
+  "hasUpdate": false,
+  "required": false,
   "url": "http://tinyurl.com/jt5tb24d",
   "releaseNotesUrl": "http://tinyurl.com/jt5tb24d"
 }
