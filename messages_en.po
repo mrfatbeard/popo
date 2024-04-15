@@ -28,3 +28,12 @@ msgstr "Cashdesk not activated"
 
 msgid "failed_to_check_for_updates"
 msgstr "Failed to check for updates"
+
+msgid "menu_item_not_found"
+msgstr "Menu item with id=%1 not found"
+
+msgid "too_much_modifiers_for_group"
+msgstr "Too much modifiers for group '%1', max count is %2"
+
+msgid "too_much_modifiers_for_dish"
+msgstr "Too much modifiers for dish"
