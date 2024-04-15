@@ -28,3 +28,12 @@ msgstr "Касса не активирована"
 
 msgid "failed_to_check_for_updates"
 msgstr "Не удалось проверить наличие обновлений"
+
+msgid "menu_item_not_found"
+msgstr "Элемент меню с id=%1 не найден"
+
+msgid "too_much_modifiers_for_group"
+msgstr "Слишком много модификаторов для группы '%1', максимум %2"
+
+msgid "too_much_modifiers_for_dish"
+msgstr "Слишком много модификаторов для блюда"
