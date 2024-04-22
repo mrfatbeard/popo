@@ -37,3 +37,25 @@ msgstr "Too much modifiers for group '%1', max count is %2"
 
 msgid "too_much_modifiers_for_dish"
 msgstr "Too much modifiers for dish"
+
+msgid "activation_code_is_not_specified"
+msgstr "Activation code is not specified"
+
+msgid "there_is_no_such_activation_code"
+msgstr "There is no such activation code"
+
+msgid "this_activation_code_has_already_been_used"
+msgstr "This activation code has already been used"
+
+msgid "the_activation_code_is_too_old"
+msgstr "The activation code is too old"
+
+msgid "refresh_token_does_not_exist"
+msgstr "Refresh token does not exist"
+
+msgid "restaurant_not_found"
+msgstr "Restaurant not found"
+
+msgid "restaurant_is_not_serviced"
+msgstr "Restaurant is not serviced"
+
