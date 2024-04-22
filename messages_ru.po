@@ -37,3 +37,24 @@ msgstr "Слишком много модификаторов для группы
 
 msgid "too_much_modifiers_for_dish"
 msgstr "Слишком много модификаторов для блюда"
+
+msgid "activation_code_is_not_specified"
+msgstr "Код активации не указан"
+
+msgid "there_is_no_such_activation_code"
+msgstr "Такого кода активации не существует"
+
+msgid "this_activation_code_has_already_been_used"
+msgstr "Этот код активации уже использован"
+
+msgid "the_activation_code_is_too_old"
+msgstr "Код активации устарел"
+
+msgid "refresh_token_does_not_exist"
+msgstr "Токен обновления не существует"
+
+msgid "restaurant_not_found"
+msgstr "Ресторан не найден"
+
+msgid "restaurant_is_not_serviced"
+msgstr "Ресторан не обслуживается"
