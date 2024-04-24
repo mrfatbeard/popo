@@ -58,3 +58,6 @@ msgstr "Ресторан не найден"
 
 msgid "restaurant_is_not_serviced"
 msgstr "Ресторан не обслуживается"
+
+msgid "should_add_modifiers_from_following_groups"
+msgstr "Необходимо добавить модификаторы из следующих групп: %1"
