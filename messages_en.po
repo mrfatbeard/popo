@@ -59,3 +59,5 @@ msgstr "Restaurant not found"
 msgid "restaurant_is_not_serviced"
 msgstr "Restaurant is not serviced"
 
+msgid "should_add_modifiers_from_following_groups"
+msgstr "Should add modifiers from following groups: %1"
