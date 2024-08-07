@@ -61,3 +61,27 @@ msgstr "Ресторан не обслуживается"
 
 msgid "should_add_modifiers_from_following_groups"
 msgstr "Необходимо добавить модификаторы из следующих групп: %1"
+
+msgid "device_connection_error"
+msgstr "Ошибка подключения устройства"
+
+msgid "different_item_types"
+msgstr "Обнаружены разные типы элементов"
+
+msgid "insufficient_funds"
+msgstr "Недостаточно средств"
+
+msgid "no_previous_shift"
+msgstr "Предыдущая смена не найдена"
+
+msgid "payments_are_empty"
+msgstr "Платежи отсутствуют"
+
+msgid "restaurant_code_not_found"
+msgstr "Код ресторана не найден"
+
+msgid "restaurant_empty_code"
+msgstr "Код ресторана пустой"
+
+msgid "unknown_currencies"
+msgstr "Неизвестные валюты"
