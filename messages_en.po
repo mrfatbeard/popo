@@ -61,3 +61,27 @@ msgstr "Restaurant is not serviced"
 
 msgid "should_add_modifiers_from_following_groups"
 msgstr "Should add modifiers from following groups: %1"
+
+msgid "device_connection_error"
+msgstr "Device connection error"
+
+msgid "different_item_types"
+msgstr "Different item types found"
+
+msgid "insufficient_funds"
+msgstr "Insufficient funds"
+
+msgid "no_previous_shift"
+msgstr "No previous shift found"
+
+msgid "payments_are_empty"
+msgstr "Payments are empty"
+
+msgid "restaurant_code_not_found"
+msgstr "Restaurant code not found"
+
+msgid "restaurant_empty_code"
+msgstr "Restaurant code is empty"
+
+msgid "unknown_currencies"
+msgstr "Unknown currencies"
