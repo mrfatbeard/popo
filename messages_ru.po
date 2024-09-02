@@ -85,3 +85,6 @@ msgstr "Код ресторана пустой"
 
 msgid "unknown_currencies"
 msgstr "Неизвестные валюты"
+
+msgid "unknown_discount"
+msgstr "Неизвестная скидка"
