@@ -85,3 +85,6 @@ msgstr "Restaurant code is empty"
 
 msgid "unknown_currencies"
 msgstr "Unknown currencies"
+
+msgid "unknown_discount"
+msgstr "Unknown discount"
