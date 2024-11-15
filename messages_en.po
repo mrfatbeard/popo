@@ -88,3 +88,6 @@ msgstr "Unknown currencies"
 
 msgid "unknown_discount"
 msgstr "Unknown discount"
+
+msgid "operation_not_permitted"
+msgstr "You are not permitted to perform this operation"
