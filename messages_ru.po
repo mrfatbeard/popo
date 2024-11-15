@@ -88,3 +88,6 @@ msgstr "Неизвестные валюты"
 
 msgid "unknown_discount"
 msgstr "Неизвестная скидка"
+
+msgid "operation_not_permitted"
+msgstr "У вас недостаточно прав для выполнения данной операции"
