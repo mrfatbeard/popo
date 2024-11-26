@@ -91,3 +91,9 @@ msgstr "Unknown discount"
 
 msgid "operation_not_permitted"
 msgstr "You are not permitted to perform this operation"
+
+msgid "division_by_zero"
+msgstr "Divizion by zero"
+
+msgid "too_big_value"
+msgstr "Value is too big"
