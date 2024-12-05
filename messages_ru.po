@@ -97,3 +97,6 @@ msgstr "Деление на ноль"
 
 msgid "too_big_value"
 msgstr "Слишком большое число"
+
+msgid "rkd_exch_login_error"
+msgstr "Не удалось авторизоваться в rkDExch. Код ошибки: %1, сообщение: %2"
