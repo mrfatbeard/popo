@@ -100,3 +100,6 @@ msgstr "Слишком большое число"
 
 msgid "rkd_exch_login_error"
 msgstr "Не удалось авторизоваться в rkDExch. Код ошибки: %1, сообщение: %2"
+
+msgid "token_expired"
+msgstr "Срок действия вашего токена истёк"
