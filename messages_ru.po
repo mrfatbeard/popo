@@ -103,3 +103,18 @@ msgstr "Не удалось авторизоваться в rkDExch. Код ош
 
 msgid "token_expired"
 msgstr "Срок действия вашего токена истёк"
+
+msgid "shift_is_not_opened"
+msgstr "Смена не открыта"
+
+msgid "rkd_exch_fetch_error"
+msgstr "Ошибка при получении данных из rkDExch. Код ошибки: %1, сообщение: %2"
+
+msgid "restaurant_dont_have_national_currency_error"
+msgstr "Ресторан не имеет национальной валюты"
+
+msgid "currency_not_found_error"
+msgstr "Валюта не найдена"
+
+msgid "restaurant_region_not_found_error"
+msgstr "Регион ресторана не найден"
