@@ -118,3 +118,12 @@ msgstr "Валюта не найдена"
 
 msgid "restaurant_region_not_found_error"
 msgstr "Регион ресторана не найден"
+
+msgid "no_active_license"
+msgstr "Нет активной лицензии"
+
+msgid "license_error"
+msgstr "Ошибка лицензии. Код ошибки: %1"
+
+msgid "license_check_error"
+msgstr "Ошибка проверки лицензии"

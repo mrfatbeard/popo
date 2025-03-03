@@ -118,3 +118,12 @@ msgstr "Currency not found"
 
 msgid "restaurant_region_not_found_error"
 msgstr "Restaurant region not found"
+
+msgid "no_active_license"
+msgstr "No active license"
+
+msgid "license_error"
+msgstr "License error. Error code: %1"
+
+msgid "license_check_error"
+msgstr "License check error"
