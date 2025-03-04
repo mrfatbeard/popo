@@ -127,3 +127,6 @@ msgstr "License error. Error code: %1"
 
 msgid "license_check_error"
 msgstr "License check error"
+
+msgid "insufficient_rights_to_make_a_deposit"
+msgstr "Insufficient rights to make a deposit"

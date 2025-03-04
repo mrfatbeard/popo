@@ -127,3 +127,6 @@ msgstr "Ошибка лицензии. Код ошибки: %1"
 
 msgid "license_check_error"
 msgstr "Ошибка проверки лицензии"
+
+msgid "insufficient_rights_to_make_a_deposit"
+msgstr "Недостаточно прав на внесение депозита"
