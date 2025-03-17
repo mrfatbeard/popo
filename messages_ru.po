@@ -130,3 +130,6 @@ msgstr "Ошибка проверки лицензии"
 
 msgid "insufficient_rights_to_make_a_deposit"
 msgstr "Недостаточно прав на внесение депозита"
+
+msgid "order_calc_logic_error"
+msgstr "Логическая ошибка расчета заказа"

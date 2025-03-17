@@ -130,3 +130,6 @@ msgstr "License check error"
 
 msgid "insufficient_rights_to_make_a_deposit"
 msgstr "Insufficient rights to make a deposit"
+
+msgid "order_calc_logic_error"
+msgstr "Order calculation logic error"
