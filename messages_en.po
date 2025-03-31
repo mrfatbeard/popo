@@ -133,3 +133,6 @@ msgstr "Insufficient rights to make a deposit"
 
 msgid "order_calc_logic_error"
 msgstr "Order calculation logic error"
+
+msgid "payment_without_Link_to_order_pay"
+msgstr "System error: found a payment calculation without a link to the payment in the order."
