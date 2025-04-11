@@ -136,3 +136,6 @@ msgstr "Order calculation logic error"
 
 msgid "payment_without_Link_to_order_pay"
 msgstr "System error: found a payment calculation without a link to the payment in the order."
+
+msgid "data_sync_error"
+msgstr "Failed to sync dictionary %1"
