@@ -139,3 +139,6 @@ msgstr "System error: found a payment calculation without a link to the payment 
 
 msgid "data_sync_error"
 msgstr "Failed to sync dictionary %1"
+
+msgid "basic_currency_not_found"
+msgstr "Basic currency not found"
