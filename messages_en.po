@@ -142,3 +142,18 @@ msgstr "Failed to sync dictionary %1"
 
 msgid "basic_currency_not_found"
 msgstr "Basic currency not found"
+
+msgid "no_connected_pos_terminals_found"
+msgstr "No connected POS terminals found"
+
+msgid "device_not_found"
+msgstr "Device with id=%1 not found"
+
+msgid "multiple_devices_found"
+msgstr "Multiple devices found"
+
+msgid "order_not_found"
+msgstr "Order with id=%1 not found"
+
+msgid "receipt_not_found"
+msgstr "Receipt with id=%1 not found"
