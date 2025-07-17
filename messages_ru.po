@@ -157,3 +157,30 @@ msgstr "Заказ с id=%1 не найден"
 
 msgid "receipt_not_found"
 msgstr "Чек с id=%1 не найден"
+
+msgid "no_connected_fiscal_printers_found"
+msgstr "Не найдено подключённых фискальных принтеров"
+
+msgid "receipt_not_intent_check"
+msgstr "Чек не является чеком намерения"
+
+msgid "duplicate_dishes"
+msgstr "Обнаружены дублирующиеся блюда: %1"
+
+msgid "duplicate_modifiers"
+msgstr "Обнаружены дублирующиеся модификаторы: %1"
+
+msgid "duplicate_deleted_parts"
+msgstr "Обнаружены дублирующиеся причины удаления: %1"
+
+msgid "duplicate_combo_parts"
+msgstr "Обнаружены дублирующиеся части комбо: %1"
+
+msgid "duplicate_discounts"
+msgstr "Обнаружены дублирующиеся скидки: %1"
+
+msgid "duplicate_payments"
+msgstr "Обнаружены дублирующиеся платежи: %1"
+
+msgid "duplicate_receipts"
+msgstr "Обнаружены дублирующиеся чеки: %1"

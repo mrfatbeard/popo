@@ -157,3 +157,30 @@ msgstr "Order with id=%1 not found"
 
 msgid "receipt_not_found"
 msgstr "Receipt with id=%1 not found"
+
+msgid "no_connected_fiscal_printers_found"
+msgstr "No connected fiscal printers found"
+
+msgid "receipt_not_intent_check"
+msgstr "Receipt is not an intent check"
+
+msgid "duplicate_dishes"
+msgstr "Duplicate dishes detected: %1"
+
+msgid "duplicate_modifiers"
+msgstr "Duplicate modifiers detected: %1"
+
+msgid "duplicate_deleted_parts"
+msgstr "Duplicate deletion reasons detected: %1"
+
+msgid "duplicate_combo_parts"
+msgstr "Duplicate combo parts detected: %1"
+
+msgid "duplicate_discounts"
+msgstr "Duplicate discounts detected: %1"
+
+msgid "duplicate_payments"
+msgstr "Duplicate payments detected: %1"
+
+msgid "duplicate_receipts"
+msgstr "Duplicate receipts detected: %1"
