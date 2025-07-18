@@ -184,3 +184,9 @@ msgstr "Duplicate payments detected: %1"
 
 msgid "duplicate_receipts"
 msgstr "Duplicate receipts detected: %1"
+
+msgid "order_is_not_editable"
+msgstr "The order cannot be edited"
+
+msgid "rkd_exch_error"
+msgstr "Error while working with rkDExch. Error code: %1, message: %2"

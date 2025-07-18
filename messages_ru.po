@@ -184,3 +184,9 @@ msgstr "Обнаружены дублирующиеся платежи: %1"
 
 msgid "duplicate_receipts"
 msgstr "Обнаружены дублирующиеся чеки: %1"
+
+msgid "order_is_not_editable"
+msgstr "Заказ не может быть отредактирован"
+
+msgid "rkd_exch_error"
+msgstr "Ошибка при работе с rkDExch. Код ошибки: %1, сообщение: %2"
