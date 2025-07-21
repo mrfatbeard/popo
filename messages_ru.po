@@ -190,3 +190,6 @@ msgstr "Заказ не может быть отредактирован"
 
 msgid "rkd_exch_error"
 msgstr "Ошибка при работе с rkDExch. Код ошибки: %1, сообщение: %2"
+
+msgid "modifier_not_found"
+msgstr "Модификатор с id=%1 не найден"

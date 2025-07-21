@@ -190,3 +190,6 @@ msgstr "The order cannot be edited"
 
 msgid "rkd_exch_error"
 msgstr "Error while working with rkDExch. Error code: %1, message: %2"
+
+msgid "modifier_not_found"
+msgstr "Modifier with id=%1 not found"
