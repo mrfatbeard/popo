@@ -193,3 +193,18 @@ msgstr "Error while working with rkDExch. Error code: %1, message: %2"
 
 msgid "modifier_not_found"
 msgstr "Modifier with id=%1 not found"
+
+msgid "device_transaction_error"
+msgstr "Device error: %1 %2"
+
+msgid "device_transaction_error_open_shift_failure"
+msgstr "Failed to open shift"
+
+msgid "device_transaction_error_print_receipt_failure"
+msgstr "Failed to print receipt"
+
+msgid "device_transaction_error_payment_failure"
+msgstr "Failed to process payment"
+
+msgid "device_transaction_error_close_shift_failure"
+msgstr "Failed to close shift"

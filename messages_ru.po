@@ -193,3 +193,18 @@ msgstr "Ошибка при работе с rkDExch. Код ошибки: %1, с
 
 msgid "modifier_not_found"
 msgstr "Модификатор с id=%1 не найден"
+
+msgid "device_transaction_error"
+msgstr "Ошибка устройства: %1 %2"
+
+msgid "device_transaction_error_open_shift_failure"
+msgstr "Ошибка открытия смены"
+
+msgid "device_transaction_error_print_receipt_failure"
+msgstr "Ошибка печати чека"
+
+msgid "device_transaction_error_payment_failure"
+msgstr "Ошибка оплаты"
+
+msgid "device_transaction_error_close_shift_failure"
+msgstr "Ошибка закрытия смены"
