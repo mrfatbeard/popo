@@ -208,3 +208,21 @@ msgstr "Ошибка оплаты"
 
 msgid "device_transaction_error_close_shift_failure"
 msgstr "Ошибка закрытия смены"
+
+msgid "driver_not_found"
+msgstr "Драйвер не найден"
+
+msgid "license_expired_error"
+msgstr "Ошибка: срок действия лицензии истёк"
+
+msgid "license_signature_error"
+msgstr "Ошибка проверки подписи лицензии"
+
+msgid "license_issued_for_another_customer_error"
+msgstr "Ошибка: лицензия выдана другому клиенту"
+
+msgid "negative_change_error"
+msgstr "Ошибка: отрицательная сдача"
+
+msgid "order_calc_inconsistent_data_error"
+msgstr "Ошибка: неконсистентные данные в расчёте заказа"

@@ -208,3 +208,21 @@ msgstr "Failed to process payment"
 
 msgid "device_transaction_error_close_shift_failure"
 msgstr "Failed to close shift"
+
+msgid "driver_not_found"
+msgstr "Driver not found"
+
+msgid "license_expired_error"
+msgstr "Error: License has expired"
+
+msgid "license_signature_error"
+msgstr "License signature check error"
+
+msgid "license_issued_for_another_customer_error"
+msgstr "Error: License is issued for another customer"
+
+msgid "negative_change_error"
+msgstr "Error: Negative change amount"
+
+msgid "order_calc_inconsistent_data_error"
+msgstr "Error: Inconsistent data in order calculation"
