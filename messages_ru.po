@@ -226,3 +226,6 @@ msgstr "Ошибка: отрицательная сдача"
 
 msgid "order_calc_inconsistent_data_error"
 msgstr "Ошибка: неконсистентные данные в расчёте заказа"
+
+msgid "order_dish_not_found"
+msgstr "Ошибка: в заказе не найдено данного блюда"
