@@ -229,3 +229,9 @@ msgstr "Error: Inconsistent data in order calculation"
 
 msgid "order_dish_not_found"
 msgstr "Error: selected dish was not found in the order"
+
+msgid "cannot_delete_paid_order"
+msgstr "Cannot delete paid order"
+
+msgid "cannot_close_unpaid_order"
+msgstr "Cannot close unpaid order"
