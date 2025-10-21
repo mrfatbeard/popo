@@ -226,3 +226,6 @@ msgstr "Error: Negative change amount"
 
 msgid "order_calc_inconsistent_data_error"
 msgstr "Error: Inconsistent data in order calculation"
+
+msgid "order_dish_not_found"
+msgstr "Error: selected dish was not found in the order"
