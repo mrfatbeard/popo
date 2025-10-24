@@ -235,3 +235,6 @@ msgstr "Невозможно удалить оплаченный заказ"
 
 msgid "cannot_close_unpaid_order"
 msgstr "Невозможно удалить неоплаченный заказ"
+
+msgid "another_payment_in_progress"
+msgstr "В данный момент выполняется другой платеж"

@@ -235,3 +235,6 @@ msgstr "Cannot delete paid order"
 
 msgid "cannot_close_unpaid_order"
 msgstr "Cannot close unpaid order"
+
+msgid "another_payment_in_progress"
+msgstr "Another payment is in progress"
