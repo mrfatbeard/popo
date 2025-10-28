@@ -238,3 +238,6 @@ msgstr "Cannot close unpaid order"
 
 msgid "another_payment_in_progress"
 msgstr "Another payment is in progress"
+
+msgid "wrong_device_type"
+msgstr "Wrong device type"
