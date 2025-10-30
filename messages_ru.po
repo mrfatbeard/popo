@@ -243,10 +243,10 @@ msgid "wrong_device_type"
 msgstr "Неверный тип устройства"
 
 msgid "cannot_modify_order_dish"
-msgtr "Невозможно изменить блюдо"
+msgstr "Невозможно изменить блюдо"
 
 msgid "cannot_revert_dish_status"
-msgtr "Невозможно изменить статус блюда"
+msgstr "Невозможно изменить статус блюда"
 
 msgid "cannot_update_whole_combo_dish_status"
-msgtr "Невозможно изменить статус комбо блюда целиком"
+msgstr "Невозможно изменить статус комбо блюда целиком"
