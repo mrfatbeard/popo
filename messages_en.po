@@ -241,3 +241,12 @@ msgstr "Another payment is in progress"
 
 msgid "wrong_device_type"
 msgstr "Wrong device type"
+
+msgid "cannot_modify_order_dish"
+msgtr "Can't modify order dish"
+
+msgid "cannot_revert_dish_status"
+msgtr "Can't revert dish status"
+
+msgid "cannot_update_whole_combo_dish_status"
+msgtr "Can't update whole combo dish status"
