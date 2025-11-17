@@ -250,3 +250,24 @@ msgstr "Can't revert dish status"
 
 msgid "cannot_update_whole_combo_dish_status"
 msgstr "Can't update whole combo dish status"
+
+msgid "connection_timeout"
+msgstr "Connection timeout"
+
+msgid "send_timeout"
+msgstr "Send timeout"
+
+msgid "receive_timeout"
+msgstr "Receive timeout"
+
+msgid "bad_certificate"
+msgstr "Bad certificate"
+
+msgid "request_was_canceled"
+msgstr "Request was canceled"
+
+msgid "connection_error"
+msgstr "Connection error"
+
+msgid "unknown_error"
+msgstr "Unknown network error"

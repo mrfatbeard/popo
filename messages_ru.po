@@ -250,3 +250,24 @@ msgstr "Невозможно изменить статус блюда"
 
 msgid "cannot_update_whole_combo_dish_status"
 msgstr "Невозможно изменить статус комбо блюда целиком"
+
+msgid "connection_timeout"
+msgstr "Время ожидания соединения истекло"
+
+msgid "send_timeout"
+msgstr "Время ожидания отправки истекло"
+
+msgid "receive_timeout"
+msgstr "Время ожидания получения истекло"
+
+msgid "bad_certificate"
+msgstr "Недействительный сертификат"
+
+msgid "request_was_canceled"
+msgstr "Запрос был отменён"
+
+msgid "connection_error"
+msgstr "Ошибка соединения"
+
+msgid "unknown_error"
+msgstr "Неизвестная сетевая ошибка"
