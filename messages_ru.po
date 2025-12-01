@@ -271,3 +271,6 @@ msgstr "Ошибка соединения"
 
 msgid "unknown_error"
 msgstr "Неизвестная сетевая ошибка"
+
+msgid "order_already_paid"
+msgstr "Заказ уже был полностью оплачен"

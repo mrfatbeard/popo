@@ -271,3 +271,6 @@ msgstr "Connection error"
 
 msgid "unknown_error"
 msgstr "Unknown network error"
+
+msgid "order_already_paid"
+msgstr "Order has already been fully paid"
