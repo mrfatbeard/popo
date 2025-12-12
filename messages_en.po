@@ -1,5 +1,3 @@
-msgid ""
-msgstr ""
 "Project-Id-Version: midserv\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-13 12:00-0400\n"
@@ -274,3 +272,60 @@ msgstr "Unknown network error"
 
 msgid "order_already_paid"
 msgstr "Order has already been fully paid"
+
+msgid "quick_check"
+msgstr "Quick check"
+
+msgid "cash_station_not_found_error"
+msgstr "Cash station not found"
+
+msgid "cannot_apply_discount_to_combo_part"
+msgstr "Cannot apply discount to combo part"
+
+msgid "cannot_delete_order"
+msgstr "Cannot delete order"
+
+msgid "employee_not_found"
+msgstr "Employee not found"
+
+msgid "failed_to_write_db_log_file"
+msgstr "Failed to write database log file"
+
+msgid "failed_to_batch_upload_log_items"
+msgstr "Failed to batch upload log items"
+
+msgid "order_calc_inconsistent_data"
+msgstr "Error: Inconsistent data in order calculation"
+
+msgid "tables_already_taken"
+msgstr "Tables already taken"
+
+msgid "unable_to_return_dishes"
+msgstr "Unable to return dishes"
+
+msgid "request_timeout"
+msgstr "Request timeout"
+
+msgid "negative_dish_quantity"
+msgstr "Negative dish quantity"
+
+msgid "negative_dish_sum"
+msgstr "Negative dish sum"
+
+msgid "payment_sum_is_less_than_dish_sum"
+msgstr "Payment sum is less than dish sum"
+
+msgid "change_is_greater_than_cash_payments"
+msgstr "Change is greater than cash payments"
+
+msgid "shift_is_already_opened"
+msgstr "Shift is already opened"
+
+msgid "shift_close_blocked_by_intent_receipt_error"
+msgstr "Shift close is blocked by intent receipt"
+
+msgid "discount_not_found"
+msgstr "Discount not found"
+
+msgid "delete_reason_not_found_error"
+msgstr "Delete reason not found"

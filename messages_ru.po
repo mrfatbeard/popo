@@ -1,5 +1,3 @@
-msgid ""
-msgstr ""
 "Project-Id-Version: midserv\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-13 12:00-0400\n"
@@ -274,3 +272,60 @@ msgstr "Неизвестная сетевая ошибка"
 
 msgid "order_already_paid"
 msgstr "Заказ уже был полностью оплачен"
+
+msgid "quick_check"
+msgstr "Быстрая проверка"
+
+msgid "cash_station_not_found_error"
+msgstr "Кассовая станция не найдена"
+
+msgid "cannot_apply_discount_to_combo_part"
+msgstr "Невозможно применить скидку к части комбо"
+
+msgid "cannot_delete_order"
+msgstr "Невозможно удалить заказ"
+
+msgid "employee_not_found"
+msgstr "Сотрудник не найден"
+
+msgid "failed_to_write_db_log_file"
+msgstr "Не удалось записать файл журнала базы данных"
+
+msgid "failed_to_batch_upload_log_items"
+msgstr "Не удалось пакетной загрузить элементы журнала"
+
+msgid "order_calc_inconsistent_data"
+msgstr "Ошибка: неконсистентные данные в расчёте заказа"
+
+msgid "tables_already_taken"
+msgstr "Столы уже заняты"
+
+msgid "unable_to_return_dishes"
+msgstr "Невозможно вернуть блюда"
+
+msgid "request_timeout"
+msgstr "Время ожидания запроса истекло"
+
+msgid "negative_dish_quantity"
+msgstr "Отрицательное количество блюда"
+
+msgid "negative_dish_sum"
+msgstr "Отрицательная сумма блюда"
+
+msgid "payment_sum_is_less_than_dish_sum"
+msgstr "Сумма платежа меньше суммы блюда"
+
+msgid "change_is_greater_than_cash_payments"
+msgstr "Сдача больше наличных платежей"
+
+msgid "shift_is_already_opened"
+msgstr "Смена уже открыта"
+
+msgid "shift_close_blocked_by_intent_receipt_error"
+msgstr "Закрытие смены заблокировано чеком намерения"
+
+msgid "discount_not_found"
+msgstr "Скидка не найдена"
+
+msgid "delete_reason_not_found_error"
+msgstr "Причина удаления не найдена"
