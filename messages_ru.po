@@ -1,3 +1,5 @@
+msgid ""
+msgstr ""
 "Project-Id-Version: midserv\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-13 12:00-0400\n"
