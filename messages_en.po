@@ -331,3 +331,12 @@ msgstr "Discount not found"
 
 msgid "delete_reason_not_found_error"
 msgstr "Delete reason not found"
+
+msgid "no_network_data_found"
+msgstr "Failed to retrieve your network data"
+
+msgid "no_wifi_connection_detected"
+msgstr "Check your wi-fi connection"
+
+msgid "no_auto_connect_support"
+msgstr "Selected device type has no support for automatic search in your subnet "
