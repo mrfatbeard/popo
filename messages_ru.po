@@ -331,3 +331,12 @@ msgstr "Скидка не найдена"
 
 msgid "delete_reason_not_found_error"
 msgstr "Причина удаления не найдена"
+
+msgid "no_network_data_found"
+msgstr "Не удалось получить данные о вашей сети"
+
+msgid "no_wifi_connection_detected"
+msgstr "Проверьте ваше подключение к wi-fi"
+
+msgid "no_auto_connect_support"
+msgstr "Выбранный тип устройств не поддерживает функцию автоматического поиска в сети"
