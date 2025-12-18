@@ -276,7 +276,7 @@ msgid "order_already_paid"
 msgstr "Заказ уже был полностью оплачен"
 
 msgid "quick_check"
-msgstr "Быстрый заказ"
+msgstr "Быстрый чек"
 
 msgid "cash_station_not_found_error"
 msgstr "Кассовая станция не найдена"
