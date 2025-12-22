@@ -340,3 +340,6 @@ msgstr "Проверьте ваше подключение к wi-fi"
 
 msgid "no_auto_connect_support"
 msgstr "Выбранный тип устройств не поддерживает функцию автоматического поиска в сети"
+
+msgid "partial_returns_are_not_supported"
+msgstr "Частичные возвраты не поддерживаются"

@@ -340,3 +340,6 @@ msgstr "Check your wi-fi connection"
 
 msgid "no_auto_connect_support"
 msgstr "Selected device type has no support for automatic search in your subnet "
+
+msgid "partial_returns_are_not_supported"
+msgstr "Partial returns are not supported"
