@@ -343,3 +343,12 @@ msgstr "Selected device type has no support for automatic search in your subnet 
 
 msgid "partial_returns_are_not_supported"
 msgstr "Partial returns are not supported"
+
+msgid "shift_should_be_closed"
+msgstr "Shift should be closed"
+
+msgid "dataflow_upload_error"
+msgstr "Shift data upload error. Details: %1"
+
+msgid "cannot_deactivate_has_unsent_data"
+msgstr "Cannot deactivate cashdesk: there is unsent shift data"

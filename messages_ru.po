@@ -343,3 +343,12 @@ msgstr "Выбранный тип устройств не поддерживае
 
 msgid "partial_returns_are_not_supported"
 msgstr "Частичные возвраты не поддерживаются"
+
+msgid "shift_should_be_closed"
+msgstr "Смена должна быть закрыта"
+
+msgid "dataflow_upload_error"
+msgstr "Не удалось выгрузить данные смены. Детали: %1"
+
+msgid "cannot_deactivate_has_unsent_data"
+msgstr "Не удалось деактивировать кассу: есть невыгруженные данные смены"
