@@ -294,7 +294,7 @@ msgid "failed_to_write_db_log_file"
 msgstr "Не удалось записать файл журнала базы данных"
 
 msgid "failed_to_batch_upload_log_items"
-msgstr "Не удалось пакетной загрузить элементы журнала"
+msgstr "Не удалось загрузить элементы журнала"
 
 msgid "order_calc_inconsistent_data"
 msgstr "Ошибка: неконсистентные данные в расчёте заказа"
