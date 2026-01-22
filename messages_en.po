@@ -352,3 +352,6 @@ msgstr "Shift data upload error. Details: %1"
 
 msgid "cannot_deactivate_has_unsent_data"
 msgstr "Cannot deactivate cashdesk: there is unsent shift data"
+
+msgid "cannot_deactivate_if_there_are_open_orders"
+msgstr "Cannot deactivate cashdesk: there are open orders"

@@ -352,3 +352,6 @@ msgstr "Не удалось выгрузить данные смены. Дета
 
 msgid "cannot_deactivate_has_unsent_data"
 msgstr "Не удалось деактивировать кассу: есть невыгруженные данные смены"
+
+msgid "cannot_deactivate_if_there_are_open_orders"
+msgstr "Не удалось деактивировать кассу: есть открытые заказы"
