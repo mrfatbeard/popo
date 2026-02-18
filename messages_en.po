@@ -355,3 +355,15 @@ msgstr "Cannot deactivate cashdesk: there is unsent shift data"
 
 msgid "cannot_deactivate_if_there_are_open_orders"
 msgstr "Cannot deactivate cashdesk: there are open orders"
+
+msgid "auth_service_prefix"
+msgstr "Auth: %1"
+
+msgid "dataflow_prefix"
+msgstr "Dataflow: %1"
+
+msgid "devices_prefix"
+msgstr "Devices: %1"
+
+msgid "proxy_service_prefix"
+msgstr "Proxy: %1"
