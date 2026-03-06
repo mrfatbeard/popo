@@ -367,3 +367,12 @@ msgstr "Devices: %1"
 
 msgid "proxy_service_prefix"
 msgstr "Proxy: %1"
+
+msgid "no_license_for_this_station"
+msgstr "No license for this station"
+
+msgid "unauthenticated_error"
+msgstr "Authentication required"
+
+msgid "unknown_network_error"
+msgstr "Unknown network error"

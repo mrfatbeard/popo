@@ -367,3 +367,12 @@ msgstr "Устройства: %1"
 
 msgid "proxy_service_prefix"
 msgstr "Proxy: %1"
+
+msgid "no_license_for_this_station"
+msgstr "Нет лицензии для этой станции"
+
+msgid "unauthenticated_error"
+msgstr "Требуется авторизация"
+
+msgid "unknown_network_error"
+msgstr "Неизвестная сетевая ошибка"
