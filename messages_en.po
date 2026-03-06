@@ -376,3 +376,9 @@ msgstr "Authentication required"
 
 msgid "unknown_network_error"
 msgstr "Unknown network error"
+
+msgid "insufficient_cash_amount_error"
+msgstr "Insufficient cash amount"
+
+msgid "unknown_financial_transaction_type"
+msgstr "Unknown financial transaction type"

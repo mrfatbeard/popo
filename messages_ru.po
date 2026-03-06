@@ -376,3 +376,9 @@ msgstr "Требуется авторизация"
 
 msgid "unknown_network_error"
 msgstr "Неизвестная сетевая ошибка"
+
+msgid "insufficient_cash_amount_error"
+msgstr "Недостаточно наличных"
+
+msgid "unknown_financial_transaction_type"
+msgstr "Неизвестный тип финансовой операции"
