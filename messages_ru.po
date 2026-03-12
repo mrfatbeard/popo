@@ -382,3 +382,12 @@ msgstr "Недостаточно наличных"
 
 msgid "unknown_financial_transaction_type"
 msgstr "Неизвестный тип финансовой операции"
+
+msgid "pin_code_not_found"
+msgstr "PIN-код не найден"
+
+msgid "pin_code_expired"
+msgstr "Срок действия PIN-кода истёк"
+
+msgid "pin_code_already_used"
+msgstr "PIN-код уже был использован"

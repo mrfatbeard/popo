@@ -382,3 +382,12 @@ msgstr "Insufficient cash amount"
 
 msgid "unknown_financial_transaction_type"
 msgstr "Unknown financial transaction type"
+
+msgid "pin_code_not_found"
+msgstr "PIN code not found"
+
+msgid "pin_code_expired"
+msgstr "PIN code has expired"
+
+msgid "pin_code_already_used"
+msgstr "PIN code has already been used"
