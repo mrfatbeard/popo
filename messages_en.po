@@ -391,3 +391,9 @@ msgstr "PIN code has expired"
 
 msgid "pin_code_already_used"
 msgstr "PIN code has already been used"
+
+msgid "invalid_refresh_token"
+msgstr "Invalid or expired refresh token"
+
+msgid "incompatible_version"
+msgstr "Incompatible application version"

@@ -391,3 +391,9 @@ msgstr "Срок действия PIN-кода истёк"
 
 msgid "pin_code_already_used"
 msgstr "PIN-код уже был использован"
+
+msgid "invalid_refresh_token"
+msgstr "Недействительный или истёкший refresh-токен"
+
+msgid "incompatible_version"
+msgstr "Несовместимая версия приложения"
