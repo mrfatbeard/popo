@@ -400,3 +400,6 @@ msgstr "Incompatible application version"
 
 msgid "invalid_pairing_params"
 msgstr "Invalid pairing params: {0}"
+
+msgid "cashdesk_sync_token_expired"
+msgstr "Cashdesk sync token expired"

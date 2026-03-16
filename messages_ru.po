@@ -400,3 +400,6 @@ msgstr "Несовместимая версия приложения"
 
 msgid "invalid_pairing_params"
 msgstr "Некорректные параметры подключения: {0}"
+
+msgid "cashdesk_sync_token_expired"
+msgstr "Токен синхронизации кассы истёк"
