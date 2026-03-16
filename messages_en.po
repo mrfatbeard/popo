@@ -397,3 +397,6 @@ msgstr "Invalid or expired refresh token"
 
 msgid "incompatible_version"
 msgstr "Incompatible application version"
+
+msgid "invalid_pairing_params"
+msgstr "Invalid pairing params: {0}"
