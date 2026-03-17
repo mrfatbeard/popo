@@ -403,3 +403,6 @@ msgstr "Некорректные параметры подключения: {0}"
 
 msgid "cashdesk_sync_token_expired"
 msgstr "Токен синхронизации кассы истёк"
+
+msgid "restaurant_mismatch"
+msgstr "Код ресторана не совпадает"

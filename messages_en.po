@@ -403,3 +403,6 @@ msgstr "Invalid pairing params: {0}"
 
 msgid "cashdesk_sync_token_expired"
 msgstr "Cashdesk sync token expired"
+
+msgid "restaurant_mismatch"
+msgstr "Restaurant code does not match"
