@@ -275,6 +275,12 @@ msgstr "Unknown network error"
 msgid "order_already_paid"
 msgstr "Order has already been fully paid"
 
+msgid "fiscal_state_switch_denied"
+msgstr "A correction check is required before changing the payment type"
+
+msgid "fiscal_state_active_intent_exists"
+msgstr "Check has already been issued, please wait for the operation to complete"
+
 msgid "quick_check"
 msgstr "Quick check"
 

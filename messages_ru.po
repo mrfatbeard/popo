@@ -275,6 +275,12 @@ msgstr "Неизвестная сетевая ошибка"
 msgid "order_already_paid"
 msgstr "Заказ уже был полностью оплачен"
 
+msgid "fiscal_state_switch_denied"
+msgstr "Требуется чек коррекции до смены типа оплаты"
+
+msgid "fiscal_state_active_intent_exists"
+msgstr "Чек уже выпущен, дождитесь завершения операции"
+
 msgid "quick_check"
 msgstr "Быстрый чек"
 
