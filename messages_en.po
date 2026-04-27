@@ -427,3 +427,6 @@ msgstr "Discount calc info with guid '%1' not found"
 
 msgid "dish_part_calc_info_not_found"
 msgstr "Dish part calc info with guid '%1' not found"
+
+msgid "discount_calc_artefact_not_found"
+msgstr "Discount calc artefact for discount calc info with guid '%1' not found"
