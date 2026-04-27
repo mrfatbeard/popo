@@ -412,3 +412,18 @@ msgstr "Токен синхронизации кассы истёк"
 
 msgid "restaurant_mismatch"
 msgstr "Код ресторана не совпадает"
+
+msgid "discount_guid_not_found"
+msgstr "Скидка с гуидом '%1' не найдена"
+
+msgid "discount_rid_not_found"
+msgstr "Скидка с идентификатором '%1' не найдена"
+
+msgid "discount_detail_not_found"
+msgstr "Детализация расчета скидки для скидки из заказа с гуидом '%1' не найдена"
+
+msgid "discount_calc_info_not_found"
+msgstr "Расчет скидки с гуидом '%1' не найден"
+
+msgid "dish_part_calc_info_not_found"
+msgstr "Расчет блюда с гуидом '%1' не найден"

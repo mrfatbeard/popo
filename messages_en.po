@@ -412,3 +412,18 @@ msgstr "Cashdesk sync token expired"
 
 msgid "restaurant_mismatch"
 msgstr "Restaurant code does not match"
+
+msgid "discount_guid_not_found"
+msgstr "Discount guid '%1' not found"
+
+msgid "discount_rid_not_found"
+msgstr "Discount rid '%1' not found"
+
+msgid "discount_detail_not_found"
+msgstr "Discount detail calc info for order discount guid '%1' not found"
+
+msgid "discount_calc_info_not_found"
+msgstr "Discount calc info with guid '%1' not found"
+
+msgid "dish_part_calc_info_not_found"
+msgstr "Dish part calc info with guid '%1' not found"
