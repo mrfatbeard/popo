@@ -571,3 +571,15 @@ msgstr "Неизвестное состояние заявки лояльнос�
 
 msgid "loyalty_close_sum_mismatch"
 msgstr "Несовпадение суммы при закрытии заявки по заказу %1: заказ %2, чеки %3"
+
+msgid "markup_guid_not_found"
+msgstr "Наценка с гуидом '%1' не найдена"
+
+msgid "markup_calc_info_not_found"
+msgstr "Расчет наценки с гуидом '%1' не найден"
+
+msgid "markup_calc_artefact_not_found"
+msgstr "Не найдены артефакты для расчета наценки с гуидом '%1'"
+
+msgid "applied_markup_value_missing"
+msgstr "Значение применённой наценки '%1' отсутствует в снапшоте"

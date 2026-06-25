@@ -571,3 +571,15 @@ msgstr "Unknown loyalty bid state: %1"
 
 msgid "loyalty_close_sum_mismatch"
 msgstr "Sum mismatch on bid close for order %1: order %2, receipts %3"
+
+msgid "markup_guid_not_found"
+msgstr "Markup guid '%1' not found"
+
+msgid "markup_calc_info_not_found"
+msgstr "Markup calc info with guid '%1' not found"
+
+msgid "markup_calc_artefact_not_found"
+msgstr "Markup calc artefact for markup calc info with guid '%1' not found"
+
+msgid "applied_markup_value_missing"
+msgstr "Applied markup value is missing for markup '%1'"
